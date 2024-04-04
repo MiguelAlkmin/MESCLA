@@ -1,0 +1,15 @@
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\bin\Debug\trabalhomosca.exe.config
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\bin\Debug\trabalhomosca.exe
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\bin\Debug\trabalhomosca.pdb
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.cadastro.resources
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.Form1.resources
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.LoginForm.resources
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.MENU.resources
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.Properties.Resources.resources
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.exe
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.pdb
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.principal.resources
+C:\Users\Alunos\source\repos\trabalhomosca\trabalhomosca\obj\Debug\trabalhomosca.Form2.resources

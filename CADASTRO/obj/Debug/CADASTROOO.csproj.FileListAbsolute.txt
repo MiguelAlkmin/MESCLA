@@ -1,0 +1,10 @@
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\bin\Debug\CADASTROOO.dll
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\bin\Debug\CADASTROOO.pdb
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.LOGIN.resources
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.UserControl1.resources
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.csproj.GenerateResource.cache
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.dll
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.pdb
+C:\Users\germa\source\repos\CADASTROOO\CADASTROOO\obj\Debug\CADASTROOO.test.resources

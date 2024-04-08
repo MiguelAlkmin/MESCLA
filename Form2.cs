@@ -7,8 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Schema;
 
-namespace trabalhomosca
+namespace Trabalho_mosca
 {
     public partial class Form2 : Form
     {
@@ -17,31 +18,52 @@ namespace trabalhomosca
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
+        
 
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+            dateTimePicker1.Format = DateTimePickerFormat.Custom;
+            dateTimePicker1.CustomFormat = "MM/dd/yyyy hh:mm:ss";
+            
+        }
+
+        private void dateTimePicker2_ValueChanged(object sender, EventArgs e)
+        {
+            dateTimePicker1.Format = DateTimePickerFormat.Custom;
+            dateTimePicker1.CustomFormat = "MM/dd/yyyy hh:mm:ss";
+        }
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            
+        
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 ob = new Form1();
-            if (ob == null)
-            {
-                ob.Parent = this;
-            }
-            ob.Show();
-            this.Hide();
+            System.DateTime dt1 = dateTimePicker1.Value;
+            System.DateTime dt2 = dateTimePicker2.Value;
+            System.TimeSpan dias = dt2.Subtract(dt1);
+           // var total_dias = (int)Math.Round(dias);
+
+            textBox2.Text = "DIAS: " + dias;
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            cadastro ob = new cadastro();
-            if (ob == null)
+          /*  int id = int.Parse(textBox3.Text);
+            int contador=5
+            do
             {
-                ob.Parent = this;
-            }
-            ob.Show();
-            this.Hide();
+                id 
+
+                contador--;
+            }while (contador > 0);
+*/
         }
     }
 }
